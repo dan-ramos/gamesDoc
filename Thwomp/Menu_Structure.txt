@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-10T22:04:43-05:00
+
+====== Menu Structure ======
+Created Thursday 10 August 2023
+
+Main menu is on whomps face, game starts and he goes URGH and the game zooms out to reveal the start of the level.
