@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-17T16:39:41-05:00
+
+====== Roadmap ======
+Created Thursday 17 August 2023
+
+* Need a thwomp model
+* Thwomp movement? Animation/physical movement
+* Demo level ( big rectangular building)
+* Instantiate ledges on level that have random holes
+* Movement needs to track outside of level, that way he doesn't fall off
+* Camera movement to follow whomp's position
+* Whomp needs to fall through the holes and land below
+
+Demo level goes infinite until we have a good working engine and understanding of scope
+
+* Trampoline or other transportation to get from level to level
+* Enemies ? Obstacles ? 
+* Skins?
+* Peter griffin ???
