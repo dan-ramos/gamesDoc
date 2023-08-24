@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-24T16:18:23-05:00
+
+====== Implementation ======
+Created Thursday 24 August 2023
+
+Whomp spawns at a constant top platform where he can fall left or right to get to first instantiated platform. Level is a rectangular prism that loops downwards indefinitely, should probably have one segment for the actual level part that we can spawn copies of, or maybe have a few that alternate. Level itself should spawn copies until enough distance has been reached then we can do a bottom segment that has the trampoline/cannon or whatever
+
+The individual platforms can be instantiated dynamically, as the platforms that whomp will roll around on will be made up of individual segments that blend together, that way we can remove individual ones at random in order to make the level different every time, perhaps only consistent part would be top and bottom just to make generation easier.
+
+Segments can be seen in [[Thwomp:Level|Level page,]] should probably have a prefab with a list, and an instantiation method for level generation that loads in everything and makes a clearable level.
+
+Camera should prob be isometric / at a diagonal, that way left/right is consistent. realistically speaking the buttons would be:
+	Left - counter clockwise around tower
+	Right - clockwise around tower
+	mouse control / right stick subtle camera movement? for funsies??
+	esc/start - pause

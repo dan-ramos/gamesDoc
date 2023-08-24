@@ -8,3 +8,5 @@ Created Thursday 10 August 2023
 Doodle jump but backwards
 
 Points based? Bonus points for going out of your  way, each fall grants certain number of points
+
+Whomp starts at the top of [[Thwomp:Level|the level which loops downwards]] as he climbs down it. Level generates until he hits a trampoline which takes him to [[Thwomp:Level:Building Types|a new location theme]]. Game ends when [[Thwomp:Level:Motivation|whomp gets whomped]]. 

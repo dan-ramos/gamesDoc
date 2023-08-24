@@ -5,13 +5,14 @@ Creation-Date: 2023-08-10T22:12:14-05:00
 ====== Motivation ======
 Created Thursday 10 August 2023
 
+Whomp is falling downward through the level because at the top of the building there is a big thwomp (or equivalent) that is breaking the building one layer at a time.
 Game ends when whomp gets SQUISHED by thwomp. he  gets TOTALLY THWOMPED.
 OR others. for example:
 
 {{.\pasted_image.png?width=150}} {{.\pasted_image001.png?width=150}} {{.\pasted_image002.png?width=150}} {{.\pasted_image003.png}} {{.\pasted_image004.png?height=150}}
 
-Whomp: beach level
-Thwomp (domesticated): idk
+Whomp: whomp's fortress
+Thwomp (domesticated): beach level
 snowman: snowmans land
 Bully: lethal lava land
 king bob omb: bob omb battlefield
