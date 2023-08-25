@@ -20,7 +20,6 @@ Bobomb dispenser to make u turn and run ur tail
 
 
 
-{{~\OneDrive\Pictures\womp game obstacles.png?width=750}}
 
-
+{{.\pasted_image001.png}}
 
